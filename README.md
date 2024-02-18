@@ -24,6 +24,8 @@ The below table must contain the details of the repositories you will create, fi
 | 2  |  Project1          | Python progran to calculate a shop's revenue     | https://github.com/Koanim/Project1        |
 | 3  | PowerBi-project1   | Power BI dashboard                               | https://github.com/Koanim/PowerBi-project1|
 
+## by Victor Nyarko Anim
+
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
 ## Setup
