@@ -18,11 +18,11 @@ The following steps constitute your assignment :
 The below table must contain the details of the repositories you will create, fill it please.
 
 
-|    | Project's Name      | Description                     | GitHub's Link  |
-|:--:|:-----------------:|:-------------------------------:|:--------------:|
-| 1 |  Tips-Calculator   | Python program to calculate tips| https://github.com/Koanim/Tips-Calculator|
-| 2 |  -                 |  -                              | https://       |
-| 3 |  -                 |  -                              | https://       |
+|    | Project's Name      | Description                                    | GitHub's Link                            |
+|:--:|:-----------------:|:------------------------------------------------:|:----------------------------------------:|
+| 1 |  Tips-Calculator   | Python program to calculate tips                 | https://github.com/Koanim/Tips-Calculator|
+| 2 |  Project1          | Python progran to calculate a shop's revenue     | https://github.com/Koanim/Project1       |
+| 3 |  -                 |  -                                               | https://                                 |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
